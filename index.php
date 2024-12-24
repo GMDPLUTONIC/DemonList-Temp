@@ -1,7 +1,7 @@
 <?php
 
 // Load the JSON file
-$json = file_get_contents("../lists-json/demon.json");
+$json = file_get_contents("./list.json");
 $list = json_decode($json, true);
 
 // Start output buffering for HTML
