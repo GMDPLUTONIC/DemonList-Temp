@@ -1,7 +1,7 @@
 {
       "1": {
         "name": "Level Name",
-        "id": Level ID,
+        "id": "Level ID",
         "creator": "Level Creator(s)",
         "verifier": "Verifier"
 }
