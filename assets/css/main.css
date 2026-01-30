@@ -11,7 +11,7 @@ body {
     padding: 20px;
 }
 
-.demon-entry {
+.level-entry {
     display: flex;
     align-items: center;
     background-color: #fff;
@@ -23,7 +23,7 @@ body {
     transition: background-color 0.3s, border-color 0.3s;
 }
 
-.demon-entry img {
+.level-entry img {
     width: 120px;
     height: 120px;
     border-radius: 10px;
@@ -31,20 +31,20 @@ body {
     margin-right: 20px;
 }
 
-.demon-info {
+.level-info {
     flex: 1;
 }
 
-.demon-info h2 {
+.level-info h2 {
     margin: 0;
     font-size: 1.5em;
 }
 
-.demon-info p {
+.level-info p {
     margin: 5px 0;
 }
 
-.demon-number {
+.level-number {
     font-size: 2em;
     font-weight: bold;
     margin-right: 20px;
@@ -89,4 +89,45 @@ a {
 button:hover {
     box-shadow: 0 7.5px 10.5px #2d2d2d;
     background-color: #ffffff;
+}
+
+.jump-section {
+    background: white;
+    padding: 15px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+    text-align: center;
+    align-items: center;
+    display:grid;
+    flex-direction: column;
+    gap: 0px;
+    margin: auto;
+    width: 575px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+}
+
+.jump-section input {
+    padding: 8px;
+    width: 100px;
+    font-size: 16px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.jump-section button {
+    padding: auto;
+    font-size: 16px;
+    cursor: pointer;
+    background: #ffffff;
+    color: #000;
+    border: none;
+    border-radius: 4px;
+    margin: 0 auto;
+}
+
+.jump-section button:hover {
+    background: #000000;
+    color: #fff;
 }

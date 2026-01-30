@@ -1,0 +1,14 @@
+{
+    "1": {
+        "player_name": "(string) Player Name",
+        "player_points": "(int/double/float) Player Points",
+        "player_hardest": "(string) Player Hardest",
+        "player_count": "(int) Player Beaten Count"
+    },
+    "2": {
+        "player_name": "(string) Player Name",
+        "player_points": "(int/double/float) Player Points",
+        "player_hardest": "(string) Player Hardest",
+        "player_count": "(int) Player Beaten Count"
+    }
+}

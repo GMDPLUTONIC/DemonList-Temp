@@ -1,0 +1,72 @@
+{
+    "1": {
+        "level_name": "(string) Level Name",
+        "level_id": "(int) Level ID",
+        "level_creators": "(string) Level Creator(s)",
+        "level_verifier": "(string) Verifier",
+        "level_points": "(int/double/float) Points"
+    },
+    "2": {
+        "level_name": "(string) Level Name",
+        "level_id": "(int) Level ID",
+        "level_creators": "(string) Level Creator(s)",
+        "level_verifier": "(string) Verifier",
+        "level_points": "(int/double/float) Points"
+    },
+    "3": {
+        "level_name": "(string) Level Name",
+        "level_id": "(int) Level ID",
+        "level_creators": "(string) Level Creator(s)",
+        "level_verifier": "(string) Verifier",
+        "level_points": "(int/double/float) Points"
+    },
+    "4": {
+        "level_name": "(string) Level Name",
+        "level_id": "(int) Level ID",
+        "level_creators": "(string) Level Creator(s)",
+        "level_verifier": "(string) Verifier",
+        "level_points": "(int/double/float) Points"
+    },
+    "5": {
+        "level_name": "(string) L Name",
+        "level_id": "(int) Level ID",
+        "level_creators": "(string) Level Creator(s)",
+        "level_verifier": "(string) Verifier",
+        "level_points": "(int/double/float) Points"
+    },
+    "6": {
+        "level_name": "(string) Level Name",
+        "level_id": "(int) Level ID",
+        "level_creators": "(string) Level Creator(s)",
+        "level_verifier": "(string) Verifier",
+        "level_points": "(int/double/float) Points"
+    },
+    "7": {
+        "level_name": "(string) Level Name",
+        "level_id": "(int) Level ID",
+        "level_creators": "(string) Level Creator(s)",
+        "level_verifier": "(string) Verifier",
+        "level_points": "(int/double/float) Points"
+    },
+    "8": {
+        "level_name": "(string) Level Name",
+        "level_id": "(int) Level ID",
+        "level_creators": "(string) Level Creator(s)",
+        "level_verifier": "(string) Verifier",
+        "level_points": "(int/double/float) Points"
+    },
+    "9": {
+        "level_name": "(string) Level Name",
+        "level_id": "(int) Level ID",
+        "level_creators": "(string) Level Creator(s)",
+        "level_verifier": "(string) Verifier",
+        "level_points": "(int/double/float) Points"
+    },
+    "10": {
+        "level_name": "(string) Level Name",
+        "level_id": "(int) Level ID",
+        "level_creators": "(string) Level Creator(s)",
+        "level_verifier": "(string) Verifier",
+        "level_points": "(int/double/float) Points"
+    }
+}
